@@ -11,6 +11,6 @@ When doing tests all at once, we check how good certain control pulses are. We u
 
 ## Execution 
 The code was developed and tested with the following packages:
-Matlab 2023a
-COMSOL Multiphysics 6.1
-Spinach v2.8 [Website](https://spindynamics.org/group/?page_id=12)
+- Matlab 2023a
+- COMSOL Multiphysics 6.1
+- Spinach v2.8 [Website](https://spindynamics.org/group/?page_id=12)
