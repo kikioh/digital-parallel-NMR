@@ -14,3 +14,9 @@ The code was developed and tested with the following packages:
 - Matlab 2023a
 - COMSOL Multiphysics 6.1
 - Spinach v2.8 [Website](https://spindynamics.org/group/?page_id=12)
+
+After the installation, 
+- open the COMSOL file, you can choose channel numbers of 1,2,4,8, click, save and close. The RF and DC files are both needed.
+- start COMSOL Livelink with Matlab
+- add the folder 'kernels', 'examples', and 'COMSOL' to the Matlab path (Menu/File/Set Path)
+- open the Cn_solenoid.m in the examples folder and run.
