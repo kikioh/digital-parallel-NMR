@@ -1,5 +1,5 @@
 # digital-parallel-NMR
-A digital twin for liquid state parallel NMR Spectroscopy
+A digital twin for parallel liquid-state NMR Spectroscopy
 
 
 ## Description
