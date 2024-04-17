@@ -13,7 +13,7 @@ When doing tests all at once, we check how good certain control pulses are. We u
 The code was developed and tested with the following packages:
 - Matlab 2023a
 - COMSOL Multiphysics 6.1
-- Spinach v2.8 [Website](https://spindynamics.org/group/?page_id=12)
+- [Spinach v2.8](https://spindynamics.org/group/?page_id=12)
 
 After the installation, 
 - open the COMSOL file, you can choose channel numbers of 1,2,4,8, click compute, then save and close. The RF and DC files are both needed.
