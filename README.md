@@ -18,5 +18,5 @@ The code was developed and tested with the following packages:
 After the installation, 
 - open the COMSOL file, you can choose channel numbers of 1,2,4,8, click compute, then save and close. The RF and DC files are both needed.
 - start COMSOL Livelink with Matlab
-- add the folder 'kernels (including subfolders)', 'examples', and 'COMSOL' to the Matlab path (Menu/File/Set Path)
+- add the folder 'kernels'(including subfolders), 'examples', and 'COMSOL' to the Matlab path (Menu/File/Set Path)
 - open the Cn_solenoid.m in the examples folder and run.
