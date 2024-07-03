@@ -11,17 +11,17 @@ While the optimal control pulses designed for one channel fail in the parallel o
 
 ## Execution 
 The code was developed and tested with the following packages:
-- Matlab 2023a, check Spinach for the required toolboxes
-- COMSOL Multiphysics 6.1, require 'mfnc' and 'emw' module
-- [Spinach v2.8](https://spindynamics.org/group/?page_id=12)
+- Matlab 2023a, check Spinach for the required toolboxes.
+- COMSOL Multiphysics 6.1, require 'mfnc' and 'emw' module.
+- [Spinach v2.8](https://spindynamics.org/group/?page_id=12).
 
 After the installation, 
 - open the COMSOL file, you can choose channel numbers of 1,2,4,8, click compute, then save and close. The RF and DC files are both needed.
-- start COMSOL Livelink with Matlab
-- add the folder 'kernels'(including subfolders), 'examples', and 'COMSOL' to the Matlab path (Menu/File/Set Path)
+- start COMSOL Livelink with Matlab.
+- add the folder 'kernels'(including subfolders), 'examples', and 'COMSOL' to the Matlab path (Menu/File/Set Path).
 - open the Cn_solenoid.m in the examples folder and run.
 
 ## Paper
-The paper was published in [Communications Engineering](https://www.nature.com/articles/s44172-024-00233-0)
+The paper was published in [Communications Engineering](https://www.nature.com/articles/s44172-024-00233-0).
 
 He, M., Faderl, D., MacKinnon, N. et al. A digital twin for parallel liquid-state nuclear magnetic resonance spectroscopy. Commun. Eng. 3, 90 (2024).
