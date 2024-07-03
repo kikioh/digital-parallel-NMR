@@ -1,0 +1,8 @@
+% Model:              Solenoid_RF_Array2.mph
+% Version:            COMSOL 6.1.0.357
+% Date:               Jan 4 2024, 14:47
+% Table:              Table 11 {tbl11} - Global Matrix Evaluation 1 {gmev1}
+% freq (MHz)     500  
+% S-parameter (1)                                   
+                                             0.9779286577792501+0.20026645562099676i           -1.1117420809856254E-4+3.1234368187053803E-4i
+                                                  -1.1029505701718226E-4+3.086678067526337E-4i      0.9779404935513469+0.20014265262384054i

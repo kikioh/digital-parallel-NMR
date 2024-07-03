@@ -1,0 +1,7 @@
+% Model:              solenoid_RF.mph
+% Version:            COMSOL 6.1.0.357
+% Date:               Jan 4 2024, 14:47
+% Table:              Table 13 {tbl13} - Global Evaluation 5 {gev5}
+% freq (MHz)       500                                     
+% S11 (1)
+                                         0.978025349327122+0.20028359675054702i
