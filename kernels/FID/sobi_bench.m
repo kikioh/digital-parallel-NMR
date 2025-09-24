@@ -65,7 +65,8 @@ X(:,:)=X(:,:)-kron(mean(X(:,:)')',ones(1,N*ntrials));
 % Alternate whitening code
 Rx=(X*X')/N;
 IBL=sqrtm(Rx);
-X = IBL\X;
+Q = inv(IBL);
+X = Q*X;
 
 % Estimate the correlation matrices
 k=1;
