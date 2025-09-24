@@ -56,7 +56,7 @@ function [We,Ae,permutation]=sobi_bench(X,p)
 [m,N,ntrials]=size(X);
 
 % Default number of correlation matrices to be diagonalized
-if exist('p','var') p=min(100,ceil(N/3)); end
+if ~exist('p','var') p=min(100,ceil(N/3)); end
 
 % Make the data zero mean
 X_temp = X;
