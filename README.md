@@ -22,6 +22,4 @@ After the installation,
 - open the Cn_solenoid.m in the examples folder and run.
 
 ## Paper
-The paper was published in [Communications Engineering](https://www.nature.com/articles/s44172-024-00233-0).
-
-He, M., Faderl, D., MacKinnon, N. et al. A digital twin for parallel liquid-state nuclear magnetic resonance spectroscopy. Commun. Eng. 3, 90 (2024).
+He, M., Faderl, D., MacKinnon, N. et al. A digital twin for parallel liquid-state nuclear magnetic resonance spectroscopy. Commun Eng 3, 90 (2024). https://doi.org/10.1038/s44172-024-00233-0
