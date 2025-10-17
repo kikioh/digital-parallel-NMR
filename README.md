@@ -22,4 +22,4 @@ After the installation,
 - open the Cn_solenoid.m in the examples folder and run.
 
 ## Paper
-He, M., Faderl, D., MacKinnon, N. et al. A digital twin for parallel liquid-state nuclear magnetic resonance spectroscopy. Commun Eng 3, 90 (2024). https://doi.org/10.1038/s44172-024-00233-0
+He, M., Faderl, D., MacKinnon, N. et al. A digital twin for parallel liquid-state nuclear magnetic resonance spectroscopy. Commun. Eng. 3, 90, https://doi.org/10.1038/s44172-024-00233-0, 2024.
